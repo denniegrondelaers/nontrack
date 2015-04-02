@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <color name="list_item_title">#000000</color>
+    <color name="list_background">#e6e6e6</color>
+    <color name="list_background_pressed">#00aadd</color>
+    <color name="list_background_pressed_td">#B94A48</color>
+    <color name="list_divider">#6b6968</color>
+    <color name="counter_text_bg">#00aadd</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#B94A48</color>
+    <color name="black">#424242</color>
+    <color name="blue">#00aadd</color>
+    <color name="dark_blue">#007b9e</color>
+    <color name="tickets">#2790cc</color>
+    <color name="sa_green">#14a804</color>
+    <color name="stacked_green">#6d7c6b</color>
+    <color name="stacked_white">#FAFAFA</color>
+    <color name="accent_green">#97e08f</color>
+    <color name="default_green">#292828</color>
+    <color name="default_darkgreen">#43634a</color>
+    <color name="banner_green">#99424242</color>
+    <color name="banner_darkgreen">#99303030</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nontrack</string>
+    <string name="hello_world">Hallo wereld!</string>
+    <string name="hello_blank_fragment">Hallo leeg fragment</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="action_settings">Instellingen</string>
+
+    <!-- New Drawer -->
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icoon</string>
+
+    <!-- Nav drawer Items -->
+    <string-array name="main_nav_draw_array">
+        <item>Thuis</item>
+        <item>Huidig nummer</item>
+        <item>Afgelopen nummers</item>
+    </string-array>
+
+    <!-- Bav Drawer Icons - - - Preserve order -->
+    <array name="main_nav_drawer_icons">
+        <item>@drawable/glyphicons_21_home</item>
+        <item>@drawable/glyphicons_18_music</item>
+        <item>@drawable/glyphicons_115_list</item>
+    </array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+</resources>
